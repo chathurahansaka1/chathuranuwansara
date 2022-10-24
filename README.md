@@ -1,7 +1,7 @@
 
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-| <a href="https://t.me/aboutchathura"><img src="https://telegra.ph/file/cd03327b4a29a7d102d89." width="350px" height="350px" /></a> |
+| <a href="https://t.me/aboutchathura"><img src="https://telegra.ph/file/9196046d07cabf51fe00c.jpg" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 |      <h2 align="center"> [SL_CHATHUWA</>🇱🇰](https://t.me/aboutchathura) </h2>                                           |
 | <a href="https://t.me/aboutchathura"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/chathuranuwansara"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/notfound" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> |                                      
